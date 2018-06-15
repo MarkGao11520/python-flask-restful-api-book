@@ -12,14 +12,8 @@
 * [4. 理解WTForms并灵活改造她](4. 理解WTForms并灵活改造她/README.md)
     * [4.1 重写WTForms](4. 理解WTForms并灵活改造她/4.1 重写WTForms.md)
     * [4.2 全局异常处理](4. 理解WTForms并灵活改造她/4.2 全局异常处理.md)
-    
 * [5. Token与HTTPBasic验证 —— 用令牌来管理用户](5. Token与HTTPBasic验证 /README.md)
     * [5.1 Token](5. Token与HTTPBasic验证 /5.1 Token.md)
     * [5.2 HTTPBasicAuth](5. Token与HTTPBasic验证 /5.2 HTTPBasicAuth.md)
     * [5.3 Token的发送与验证](5. Token与HTTPBasic验证 /5.3 Token的发送与验证.md)
-
-
-
-
-        
 
