@@ -19,3 +19,5 @@ def get_book():
 def create():
     return 'create book'
 ```
+
+### 2.为什么标准的REST不适合内部开发
