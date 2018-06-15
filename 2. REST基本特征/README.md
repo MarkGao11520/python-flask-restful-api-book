@@ -21,3 +21,5 @@ def create():
 ```
 
 ### 2.为什么标准的REST不适合内部开发
+REST的使用场景有两个：内部开发API，开放API。
+标准的REST比较适合开放性的API
