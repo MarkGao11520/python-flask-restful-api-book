@@ -17,4 +17,14 @@
     * [5.2 HTTPBasicAuth](5. Token与HTTPBasic验证 /5.2 HTTPBasicAuth.md)
     * [5.3 Token的发送与验证](5. Token与HTTPBasic验证 /5.3 Token的发送与验证.md)
 * [6. 模型对象的序列化](6. 模型对象的序列化.md)
+* [7. 权限控制](7. 权限控制/README.md)
+    * [7.1 删除模型的注意事项](7. 权限控制/7.1 删除模型的注意事项.md)
+
+
+
+
+
+
+
+
 
